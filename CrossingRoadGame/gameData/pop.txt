@@ -1,0 +1,19 @@
+TUY
+3
+55 23
+2
+1 1 
+7 15 
+
+Off
+RL
+22
+-7 87 112 155 170 192 288 476 501 595 656 707 747 796 809 864 883 938 963 1006 1021 1054 
+bird2 dino2 dino2 bird1 bird1 dino0 dino1 dino2 dino2 bird2 dino1 dino1 dino0 bird0 bird0 dino2 bird0 bird2 bird2 bird1 bird1 dino1 
+
+Off
+RL
+21
+14 39 133 199 214 236 332 520 614 639 700 740 769 818 873 892 905 960 1026 1059 1110 
+bird2 bird2 dino2 bird1 bird1 dino0 dino1 dino2 bird2 bird2 dino1 dino0 dino0 bird0 dino2 bird0 bird0 bird2 bird1 dino1 dino1 
+

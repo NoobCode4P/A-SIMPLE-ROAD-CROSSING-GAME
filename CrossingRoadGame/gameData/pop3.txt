@@ -1,0 +1,19 @@
+YUT
+3
+28 17
+2
+1 1 
+7 15 
+
+Off
+RL
+26
+7 32 75 90 112 208 396 421 515 576 627 667 716 729 784 803 858 883 926 941 974 1156 1169 1182 1213 1238 
+dino2 dino2 bird1 bird1 dino0 dino1 dino2 dino2 bird2 dino1 dino1 dino0 bird0 bird0 dino2 bird0 bird2 bird2 bird1 bird1 dino1 bird0 bird0 bird0 dino2 dino2 
+
+Off
+RL
+23
+45 111 126 148 244 432 526 551 612 652 681 730 785 804 817 872 938 971 1022 1204 1217 1230 1273 
+dino2 bird1 bird1 dino0 dino1 dino2 bird2 bird2 dino1 dino0 dino0 bird0 dino2 bird0 bird0 bird2 bird1 dino1 dino1 bird0 bird0 bird0 dino2 
+

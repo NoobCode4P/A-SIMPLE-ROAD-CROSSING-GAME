@@ -1,0 +1,19 @@
+poil
+2
+22 16
+2
+1 0 
+7 15 
+
+Off
+LR
+6
+-134 -93 -68 -30 29 54 
+bird1 dino2 dino2 dino1 bird2 bird2 
+
+Y
+RL
+5
+40 64 95 153 180 
+car1 car2 car2 truck0 truck0 
+

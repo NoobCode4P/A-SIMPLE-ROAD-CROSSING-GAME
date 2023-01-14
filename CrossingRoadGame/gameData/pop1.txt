@@ -1,0 +1,25 @@
+Helo lo
+4
+34 15
+3
+0 1 1 
+7 14 22 
+
+G
+RL
+14
+-9 72 89 202 219 243 274 390 512 529 578 595 612 629 
+car1 car1 car1 car0 car0 car2 car2 truck0 car1 car1 truck0 truck0 truck0 truck0 
+
+Off
+LR
+18
+-941 -928 -915 -902 -774 -723 -657 -642 -580 -555 -528 -499 -470 -429 -416 -192 -141 102 
+bird0 bird0 bird0 bird0 dino1 dino1 bird1 bird1 dino2 dino2 dino0 dino0 dino0 bird0 bird0 dino1 dino1 dino1 
+
+Off
+RL
+16
+169 220 502 515 560 589 616 641 707 722 807 858 990 1003 1016 1029 
+dino1 dino1 bird0 bird0 dino0 dino0 dino2 dino2 bird1 bird1 dino1 dino1 bird0 bird0 bird0 bird0 
+

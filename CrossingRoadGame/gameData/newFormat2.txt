@@ -1,0 +1,19 @@
+EXAMPLE23
+3
+34 11
+2
+1 1 
+7 15 
+
+Off
+LR
+18
+-826 -727 -672 -543 -505 -480 -451 -438 -339 -295 -262 -211 -167 -152 -52 -1 12 92 
+bird0 dino0 bird1 dino1 dino2 dino2 bird0 bird0 dino0 bird1 dino1 dino1 bird1 bird1 dino0 bird0 bird0 dino1 
+
+Off
+LR
+19
+-811 -712 -657 -642 -561 -523 -498 -469 -456 -357 -313 -280 -229 -185 -170 -70 -41 10 90 
+bird0 dino0 bird1 bird1 dino1 dino2 dino2 bird0 bird0 dino0 bird1 dino1 dino1 bird1 bird1 dino0 dino0 bird0 dino1 
+

@@ -1,0 +1,25 @@
+HELLboy
+4
+37 18
+3
+0 1 1 
+7 14 22 
+
+G
+RL
+1
+69 
+truck0 
+
+Off
+LR
+3
+-2 11 24 
+bird0 bird0 bird0 
+
+Off
+RL
+3
+52 65 78 
+bird0 bird0 bird0 
+

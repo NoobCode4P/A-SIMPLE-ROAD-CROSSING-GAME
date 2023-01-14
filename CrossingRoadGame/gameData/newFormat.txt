@@ -1,0 +1,19 @@
+EXAMPLE23
+2
+73 22
+2
+0 1 
+7 14 
+
+R
+RL
+10
+3 20 37 69 86 135 152 185 214 360 
+car0 car0 car0 car1 car1 truck0 truck0 car0 truck2 car1 
+
+Off
+LR
+14
+-725 -541 -440 -387 -358 -329 -298 -285 -109 -65 -50 -30 49 78 
+dino0 dino1 bird2 dino0 dino0 dino0 bird0 bird0 dino1 bird1 bird1 bird2 dino0 dino0 
+

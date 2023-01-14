@@ -1,0 +1,25 @@
+yuto123
+5
+37 31
+3
+1 1 1 
+7 15 23 
+
+Off
+RL
+4
+22 43 72 149 
+bird0 dino0 dino0 bird0 
+
+Off
+RL
+4
+22 43 72 149 
+bird0 dino0 dino0 bird0 
+
+Off
+LR
+4
+-69 4 33 54 
+bird0 dino0 dino0 bird0 
+

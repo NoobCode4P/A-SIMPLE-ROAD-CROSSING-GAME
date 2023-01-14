@@ -1,0 +1,19 @@
+EXAMPLE23
+3
+37 23
+2
+1 1 
+7 15 
+
+Off
+LR
+3
+-44 -11 40 
+bird1 dino1 dino1 
+
+Off
+LR
+4
+-69 -44 -11 40 
+bird0 bird1 dino1 dino1 
+

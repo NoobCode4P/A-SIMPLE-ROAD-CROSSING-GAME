@@ -1,0 +1,19 @@
+weird
+3
+16 17
+2
+1 1 
+7 15 
+
+Off
+RL
+29
+-1 24 67 82 104 200 388 413 507 568 619 659 708 721 776 795 850 875 918 933 966 999 1014 1060 1111 1151 1180 1235 1260 
+dino2 dino2 bird1 bird1 dino0 dino1 dino2 dino2 bird2 dino1 dino1 dino0 bird0 bird0 dino2 bird0 bird2 bird2 bird1 bird1 dino1 bird1 bird1 dino1 dino1 dino0 dino0 bird2 bird2 
+
+Off
+RL
+27
+45 111 126 148 244 432 526 551 612 652 681 730 785 804 817 872 938 971 1022 1055 1070 1116 1167 1207 1236 1291 1316 
+dino2 bird1 bird1 dino0 dino1 dino2 bird2 bird2 dino1 dino0 dino0 bird0 dino2 bird0 bird0 bird2 bird1 dino1 dino1 bird1 bird1 dino1 dino1 dino0 dino0 bird2 bird2 
+
